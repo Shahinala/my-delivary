@@ -1,0 +1,97 @@
+
+
+
+
+
+
+.day-off-btn {
+  background-color: #f0ad4e;
+  
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+
+
+
+
+
+.loader{
+    margin-left: 50px;
+    margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+    
+}
+.main-loader{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: ;
+  height: 100vh;
+  width: 100vh;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background: ;
+}
+
+
+
+
+.auth-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.form-control {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+}
+
+.form-control-button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+
+
+/** nav bar **/
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.navbar .navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar .nav-link {
+  color: white;
+  font-size: 18px;
+}
+
+.navbar .btn-outline-light {
+  margin-left: auto;
+}
